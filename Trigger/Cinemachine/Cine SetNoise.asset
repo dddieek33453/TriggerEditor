@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a084a884e392f4498d5503b4f1a286e, type: 3}
+  m_Name: Cine SetNoise
+  m_EditorClassIdentifier: 
+  CVC: {fileID: 0}
+  noiseSetting: {fileID: 0}
+  amplitudeGain: 1
+  frequencyGain: 1
+  pivotOffset: {x: 0, y: 0, z: 0}
